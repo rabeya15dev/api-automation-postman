@@ -531,23 +531,26 @@
       }
     }
   ],
-  "variable": [
+ "variable": [
     {
       "key": "id",
       "value": "1"
     },
     {
       "key": "base_url",
-      "value": "https://template.postman-echo.com"
+      "value": "https://app.reqres.in/"
     },
     {
       "key": "x-api-key",
-      "value": "",
-      "disabled": true
+      "value": "pub_db14289bf7f0a5919805fd6b93859895f8f00e6110420ad27176a916e368455e"
     },
     {
       "key": "email",
-      "value": ""
+      "value": "rabeya1012000@gmail.com"
+    },
+    {
+      "key": "user_id",
+      "value": "2"
     }
   ]
 }
